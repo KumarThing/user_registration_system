@@ -22,7 +22,8 @@ Perfect for learning file handling, structs, and basic authentication logic in G
 The program runs in the terminal and waits for your input.  
 It provides a simple text-based menu with these commands:
 
-```bash
+```
+bash
 1. register
 2. login
 3. show user
@@ -31,8 +32,8 @@ It provides a simple text-based menu with these commands:
 6. exit
 
 ---
-
-```bash
+```
+bash
 Enter command: register
 Enter user name: John
 Enter password: 12345
@@ -40,7 +41,8 @@ Enter password: 12345
 
 ---
 
-```bash
+```
+bash
 Enter command: login
 Enter user name: John
 Enter password: 12345
@@ -48,7 +50,8 @@ Enter password: 12345
 
 ---
 
-```bash
+```
+bash
 Example Usage
 Welcome to Secure Login System!
 ---------------------------------
