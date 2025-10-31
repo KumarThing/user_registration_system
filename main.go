@@ -54,6 +54,7 @@ func main() {
 			}
 			if exists {
 				fmt.Println("Name already exists.")
+				continue
 				
 			}
 
