@@ -23,7 +23,7 @@ The program runs in the terminal and waits for your input.
 It provides a simple text-based menu with these commands:
 
 ```
-bash
+
 1. register
 2. login
 3. show user
@@ -33,7 +33,7 @@ bash
 
 ---
 ```
-bash
+
 Enter command: register
 Enter user name: John
 Enter password: 12345
@@ -42,7 +42,7 @@ Enter password: 12345
 ---
 
 ```
-bash
+
 Enter command: login
 Enter user name: John
 Enter password: 12345
@@ -51,7 +51,7 @@ Enter password: 12345
 ---
 
 ```
-bash
+
 Example Usage
 Welcome to Secure Login System!
 ---------------------------------
