@@ -31,7 +31,7 @@ It provides a simple text-based menu with these commands:
 5. load
 6. exit
 
----
+
 ```
 
 Enter command: register
@@ -39,7 +39,7 @@ Enter user name: John
 Enter password: 12345
 ✅ User John registered successfully!
 
----
+
 
 ```
 
@@ -48,7 +48,7 @@ Enter user name: John
 Enter password: 12345
 ✅ Login successful! Welcome, John!
 
----
+
 
 ```
 
